@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>中国移动福建公司网上营业厅</title>
+</head>
+<script language="javascript">
+function doAction(){
+document.queryFeeForm.submit();
+
+}
+</script>
+<body>
+
+	
+<table width="100%" class="table_xd" border="1" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td colspan="4" class="fb">套餐及固定费详单</td>
+                          </tr>
+                          <tr>
+                            <td>扣费时间</td>
+                            <td>使用周期</td>
+                            <td>套餐及固定费名称</td>
+                            <td>费用(元)</td>
+                          </tr>
+                          
+							 <tr>
+                            <td>&nbsp;2017-09-01</td>
+                            <td>&nbsp;2017.09.01-2017.09.30</td>
+                            <td>&nbsp;超级网聊13套餐（2013版）</td>
+                            <td>&nbsp;13.00</td>
+                          </tr>
+							
+							 <tr>
+                            <td>&nbsp;2017-09-11</td>
+                            <td>&nbsp;2017.09.01-2017.09.30</td>
+                            <td>&nbsp;来电显示</td>
+                            <td>&nbsp;2.09</td>
+                          </tr>
+							
+                          <tr>
+                            <td colspan="4" class="fb"><span class="fl pl30">合计</span><span class="fr pr30">15.09</span></td>
+                          </tr>
+                        </table>
+                        
+                                              
+                        
+                        
+</body>
+</html>
